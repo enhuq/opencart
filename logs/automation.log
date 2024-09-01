@@ -1,0 +1,242 @@
+14:37:48.218 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:39:44.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+14:39:54.248 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:39:55.843 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:39:57.992 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:40:16.964 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:40:20.738 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:40:21.521 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:40:22.401 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:40:22.444 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:40:22.498 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:40:31.554 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:40:32.943 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:40:34.691 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:40:44.314 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:40:48.995 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:40:49.238 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:40:52.386 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:40:52.387 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:41:03.755 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:41:03.757 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:41:16.091 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:41:16.092 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:41:19.097 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+02:09:45.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+02:09:50.168 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+02:09:51.273 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+02:09:53.476 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+02:10:00.330 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+02:10:01.360 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+02:10:03.736 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+02:10:11.873 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+02:10:14.729 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+02:10:15.684 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+02:10:18.479 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+02:10:18.481 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+02:10:29.964 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+02:10:29.966 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+02:10:41.669 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+02:10:41.670 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+02:10:44.254 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:40:45.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+23:40:50.517 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:40:51.667 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:40:53.841 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:41:00.406 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:41:01.517 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:41:03.055 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:41:09.622 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+23:41:12.078 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+23:41:12.832 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:41:15.436 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:41:15.438 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:41:26.991 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:41:26.993 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:41:38.610 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:41:38.611 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:41:41.494 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:42:52.628 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+23:42:56.742 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:42:57.727 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:42:59.795 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:43:05.853 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:43:06.855 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:43:08.391 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:43:14.888 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+23:43:17.319 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+23:43:17.986 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:43:20.463 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:43:20.465 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:43:31.798 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:43:31.800 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:43:43.420 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:43:43.422 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:43:46.170 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:43:51.116 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:43:52.057 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:43:53.885 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:43:58.681 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+23:44:01.375 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+23:44:01.684 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:44:02.439 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:44:02.479 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:44:02.519 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:56:48.455 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grid-docker.xml
+
+23:56:53.265 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:56:54.451 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:56:56.940 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:57:03.754 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:57:04.770 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:57:06.403 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:57:12.982 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+23:57:15.594 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+23:57:16.264 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:57:18.665 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:57:18.666 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:57:30.001 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:57:30.002 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:57:41.490 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:57:41.491 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:57:44.373 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+13:58:33.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+14:00:09.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+14:00:18.361 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:00:19.217 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:00:20.794 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:00:26.094 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:00:28.475 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:00:29.106 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:00:31.234 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:00:31.235 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:00:42.385 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:00:42.386 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:00:53.953 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:00:53.954 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:00:56.792 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:01:25.558 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:01:26.399 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:01:27.984 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:01:33.211 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:01:35.652 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:01:36.232 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:01:38.420 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:01:38.421 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:01:49.528 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:01:49.530 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:02:00.597 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:02:00.598 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:02:03.198 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:08:01.399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grid-docker.xml
+
+14:13:17.583 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:13:18.562 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:13:20.527 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:13:28.213 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:13:29.338 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:13:30.868 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:13:37.234 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:13:39.769 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:13:40.551 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:13:42.925 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:13:42.927 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:13:54.252 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:13:54.254 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:14:05.831 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:14:05.834 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:14:08.550 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:00:21.629 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:00:22.593 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:00:24.822 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:00:33.348 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:00:34.362 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:00:36.013 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:00:43.253 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+18:00:46.028 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+18:00:46.991 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:00:49.494 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:00:49.496 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:01:00.874 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:01:00.876 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:01:12.615 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:01:12.618 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:01:15.280 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:06:56.900 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:06:57.845 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:06:59.825 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:07:06.030 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:07:07.036 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:07:08.562 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:07:15.064 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+18:07:17.574 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+18:07:18.425 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:07:20.868 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:07:20.869 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:07:32.196 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:07:32.199 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:07:43.484 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:07:43.486 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:07:45.835 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:15:47.804 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:15:48.695 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:15:50.567 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:15:57.352 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:15:58.350 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:15:59.873 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:16:06.357 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+18:16:08.886 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+18:16:09.624 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:16:11.949 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:16:11.951 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:16:23.232 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:16:23.233 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:16:34.836 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:16:34.838 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:16:37.443 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:20:17.128 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:20:18.119 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:20:20.143 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:20:26.984 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:20:28.076 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:20:29.644 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:20:36.487 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+18:20:39.126 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+18:20:39.883 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:20:42.395 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:20:42.397 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:20:53.690 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:20:53.691 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:21:05.264 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:21:05.265 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:21:08.014 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:12:34.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/opencart/masterTest.xml
+
+23:12:41.315 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:12:42.159 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:12:43.781 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:12:49.126 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+23:12:51.619 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+23:12:52.324 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:12:54.586 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:12:54.588 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:13:05.867 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:13:05.869 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:13:17.923 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:13:17.925 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:13:20.604 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***

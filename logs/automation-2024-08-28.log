@@ -1,0 +1,625 @@
+22:15:14.651 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:15:22.230 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:15:30.800 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:15:33.214 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:04:36.710 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+14:04:43.095 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:04:43.909 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:04:45.581 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:05:24.783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+16:04:22.261 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+16:04:28.677 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:04:29.542 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+16:04:31.239 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+16:13:50.982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+16:13:56.054 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:13:56.896 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+16:13:58.446 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+16:16:15.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+16:16:21.458 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:16:22.305 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+16:16:23.916 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+16:24:01.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+16:24:10.075 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:24:11.056 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - Providing customer details...
+16:24:12.454 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - Validating expected message...
+16:24:16.583 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:24:17.452 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+16:24:18.923 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:03:39.158 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:03:45.090 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:03:45.895 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:03:47.215 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:03:47.586 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:03:48.273 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:03:49.590 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:21:18.476 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+17:21:23.677 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:21:24.541 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:21:26.084 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:21:57.312 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:22:02.449 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:22:03.326 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:22:05.076 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:22:05.313 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:22:06.244 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:22:07.557 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:23:24.664 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:23:29.739 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:23:30.520 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:23:32.076 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:23:32.692 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:23:33.710 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:23:35.085 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Validating expected message...
+05:32:13.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+05:32:29.448 [main] INFO  testCases.LoginTest - **** Starting verify_account_registration() test ****
+05:36:00.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml
+
+05:36:26.640 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml
+
+05:37:22.618 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+05:37:27.920 [main] INFO  testCases.LoginTest - **** Starting verify_account_registration() test ****
+05:37:34.802 [main] INFO  testCases.LoginTest - ***Finished verify_login() test
+05:39:43.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+05:39:48.463 [main] INFO  testCases.LoginTest - **** Starting verify_account_registration() test ****
+05:39:50.418 [main] INFO  testCases.LoginTest - ***Finished verify_login() test
+22:35:20.255 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+22:35:35.359 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+22:35:37.118 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+22:35:37.836 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:35:47.944 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:35:58.019 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:36:08.152 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:36:20.271 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:37:27.876 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+22:37:34.468 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+22:37:36.815 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+22:37:37.553 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:37:45.160 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:37:47.667 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:37:58.881 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:37:58.882 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:38:01.501 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:40:11.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+22:40:17.187 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:40:19.383 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:40:19.385 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:40:21.724 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:40:32.819 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:40:32.821 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:40:35.275 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:48:25.290 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+22:48:31.704 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:48:34.122 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:48:34.124 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:48:45.317 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:48:45.318 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:48:56.427 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:48:56.428 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:48:59.117 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:55:38.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+22:55:43.193 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+22:55:45.550 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+22:56:12.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+22:56:17.554 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+22:56:19.954 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+22:56:20.626 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:56:22.699 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:56:22.700 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:56:33.837 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:56:33.838 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:56:44.972 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:56:44.973 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:56:47.670 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+15:02:52.667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grouping.xml
+
+15:03:07.356 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+15:03:09.963 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+15:04:32.602 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grouping.xml
+
+15:04:37.747 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+15:04:38.613 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+15:04:40.281 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+15:04:45.141 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+15:04:47.547 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+15:08:31.858 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grouping.xml
+
+15:08:36.804 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+15:08:37.611 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+15:08:39.248 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+15:08:44.614 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+15:08:47.089 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+15:08:47.844 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+15:08:50.069 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+15:08:50.071 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+15:09:01.364 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+15:09:01.365 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+15:09:13.261 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+15:09:13.262 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+15:09:16.008 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+13:54:40.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+13:54:55.128 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+13:54:56.081 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+13:54:57.859 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+13:55:03.251 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+13:55:05.638 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+13:55:06.423 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+13:55:08.579 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+13:55:08.581 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+13:55:19.868 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+13:55:19.870 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+13:55:31.747 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+13:55:31.748 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+13:55:34.407 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:07:39.928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+14:07:46.932 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:07:47.871 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:07:49.751 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:07:54.779 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:07:57.229 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:07:57.902 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:08:00.093 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:08:00.095 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:08:11.351 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:08:11.354 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:08:22.978 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:08:22.979 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:08:25.792 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:34:06.218 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+14:34:12.833 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:34:13.729 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:34:15.698 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:34:21.388 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:34:23.789 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:34:24.552 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:34:26.919 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:34:26.921 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:34:38.213 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:34:38.215 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:34:49.925 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:34:49.926 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:34:52.677 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:48:52.279 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+14:48:57.906 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:49:10.396 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:49:12.626 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:49:12.629 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:49:23.705 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:49:23.706 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:49:35.308 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:49:35.309 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:49:37.919 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:52:01.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+14:52:06.536 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:52:09.049 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:52:09.740 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:52:11.957 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:52:11.959 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:52:23.000 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:52:23.001 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:52:34.708 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:52:34.709 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:52:37.308 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:58:10.414 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+22:58:26.561 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:58:27.419 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:58:29.161 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:58:34.253 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+22:58:36.627 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+22:58:37.273 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:58:39.394 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:58:39.396 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:58:50.750 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:58:50.752 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:59:02.488 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:59:02.490 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:59:05.105 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:00:36.811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+23:01:43.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+23:01:49.352 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:01:50.228 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:01:52.003 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:01:57.257 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+23:01:59.685 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+23:02:00.324 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:02:02.357 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:02:02.360 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:02:13.511 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:02:13.512 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:02:25.168 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:02:25.169 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:02:27.753 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:03:01.548 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+23:03:07.398 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+23:03:08.198 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+23:03:09.722 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+23:03:15.062 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+23:03:17.616 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+23:03:18.278 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:03:20.684 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:03:20.686 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:03:31.833 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:03:31.834 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:03:42.868 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+23:03:42.869 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+23:03:45.467 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+16:14:55.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+16:14:55.533 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:15:10.536 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:15:11.350 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+16:15:13.069 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+16:16:50.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+16:16:50.541 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:16:58.924 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+16:16:59.730 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+16:17:01.409 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+16:20:21.255 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+17:35:50.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+17:41:08.724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+17:41:15.896 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:41:16.715 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:41:18.415 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:41:23.338 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+17:41:25.835 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+17:41:26.515 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+17:41:28.607 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+17:41:28.609 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+17:41:39.861 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+17:41:39.863 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+17:41:51.144 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+17:41:51.145 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+17:41:53.723 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+17:46:14.446 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:46:14.698 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:46:20.416 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:46:21.166 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:46:22.747 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:49:27.228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:49:33.311 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:49:33.311 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:50:37.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:50:43.145 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:50:44.000 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:50:45.430 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:51:59.771 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:51:59.949 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:52:19.194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:52:19.367 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:52:59.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:53:04.994 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:53:05.930 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:53:07.604 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+17:53:32.856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:53:33.033 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:53:53.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:53:53.900 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:54:02.611 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:54:02.791 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:59:20.654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+17:59:31.878 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+17:59:32.725 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+17:59:34.285 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:00:28.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+18:00:35.461 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:00:35.461 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:02:32.614 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+18:02:39.457 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:02:39.858 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:04:25.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+18:04:31.394 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:04:32.236 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:04:33.914 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:04:59.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+18:05:05.260 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:05:06.067 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:05:07.621 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:06:03.405 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+18:06:10.532 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:06:10.532 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:06:25.331 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:09:57.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+18:09:57.210 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:10:02.611 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:10:03.499 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:10:05.261 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:11:13.203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+18:11:18.804 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:11:19.218 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:12:59.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+18:13:04.303 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+18:13:06.803 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+18:13:07.447 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:13:09.562 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:13:09.565 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:13:20.818 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:13:20.820 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:13:32.554 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:13:32.555 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:13:35.170 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:13:58.021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+18:14:03.482 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+18:14:06.002 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+18:14:06.708 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:14:09.058 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:14:09.060 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:14:20.223 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:14:20.224 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:14:31.862 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:14:31.863 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:14:34.361 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:14:57.108 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+18:15:02.382 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+18:15:03.289 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:15:04.977 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+18:15:09.859 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+18:15:12.162 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+18:15:12.817 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:15:15.156 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:15:15.159 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:15:26.276 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:15:26.277 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:15:37.352 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+18:15:37.354 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+18:15:40.105 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:21:09.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/test_grouping.xml
+
+22:21:15.128 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:21:15.972 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:21:17.550 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:21:22.589 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+22:21:25.121 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+22:21:25.804 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:21:28.088 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:21:28.091 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:21:39.451 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:21:39.454 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:21:50.751 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:21:50.752 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:21:53.900 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:24:24.144 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/masterTest.xml
+
+22:24:29.721 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:24:30.538 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:24:32.221 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:24:37.358 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+22:24:39.874 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+22:24:40.560 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:24:42.902 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:24:42.904 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:24:54.191 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:24:54.192 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:25:06.025 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:25:06.026 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+22:25:08.978 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+22:29:11.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:29:11.731 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:29:17.013 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:29:17.862 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:29:19.642 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:30:05.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:30:13.517 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:30:13.517 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:32:11.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:32:16.788 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:32:17.640 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:32:19.280 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:33:09.923 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:33:15.276 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:33:16.186 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:33:17.800 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:36:20.605 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:36:27.110 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:36:27.110 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:39:01.728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:39:08.377 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:39:08.377 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:40:45.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:40:45.711 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:40:50.793 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:40:51.658 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:40:53.344 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:41:48.904 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:41:49.013 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:41:54.083 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:41:54.837 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:41:56.422 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:42:33.864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:42:34.052 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:42:39.059 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:42:39.893 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:42:41.494 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:56:28.230 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:56:28.396 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:56:33.766 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:56:34.506 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:56:36.185 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+22:57:52.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/crossBrowserTesting.xml
+
+22:57:52.425 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:57:57.612 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+22:57:58.459 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:58:00.067 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:30:03.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+14:30:09.326 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:30:10.267 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:30:12.372 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:30:16.521 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:30:19.408 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:30:20.176 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:30:22.205 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:30:22.244 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:30:22.284 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:32:38.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+14:32:42.806 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:32:43.789 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:32:45.725 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:33:24.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+14:33:28.954 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:33:31.842 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:33:32.406 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:33:33.269 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:33:33.304 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:33:33.341 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:34:26.988 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+14:34:31.350 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:34:32.233 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:34:34.105 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:36:48.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/enamul/Desktop/opencart/grid-docker.xml
+
+14:36:57.165 [main] INFO  testCases.AccountRegistrationTest - **** Starting verify_account_registration() test ****
+14:36:58.372 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+14:37:00.115 [main] INFO  testCases.AccountRegistrationTest - Validating expected message...
+14:37:15.705 [main] INFO  testCases.LoginTest - **** Starting verify_login() test ****
+14:37:18.541 [main] INFO  testCases.LoginTest - ***Finished verify_login() test ***
+14:37:19.224 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:37:21.812 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:37:21.814 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:37:33.264 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:37:33.266 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****
+14:37:45.140 [main] INFO  testCases.LoginTest - *** Finished verify_login_data_provider() test ***
+14:37:45.141 [main] INFO  testCases.LoginTest - **** Starting verify_login_data_provider() test ****

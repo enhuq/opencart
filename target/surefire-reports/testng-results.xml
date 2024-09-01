@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-30T18:20:12 EDT" name="Suite" finished-at="2024-08-30T18:21:08 EDT" duration-ms="56325">
+    <groups>
+      <group name="Master">
+        <method signature="AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.AccountRegistrationTest@2da59753]" name="verify_account_registration" class="testCases.AccountRegistrationTest"/>
+        <method signature="AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.AccountRegistrationTest@53bd8fca]" name="verify_account_registration" class="testCases.AccountRegistrationTest"/>
+        <method signature="LoginTest.verify_login()[pri:0, instance:testCases.LoginTest@7642df8f]" name="verify_login" class="testCases.LoginTest"/>
+        <method signature="LoginTest.verify_login_data_provider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7642df8f]" name="verify_login_data_provider" class="testCases.LoginTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.verify_login()[pri:0, instance:testCases.LoginTest@7642df8f]" name="verify_login" class="testCases.LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="DataDriven">
+        <method signature="LoginTest.verify_login_data_provider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7642df8f]" name="verify_login_data_provider" class="testCases.LoginTest"/>
+      </group> <!-- DataDriven -->
+      <group name="Regression">
+        <method signature="AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.AccountRegistrationTest@2da59753]" name="verify_account_registration" class="testCases.AccountRegistrationTest"/>
+        <method signature="AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.AccountRegistrationTest@53bd8fca]" name="verify_account_registration" class="testCases.AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-08-30T18:20:12 EDT" name="Linux-Chrome" finished-at="2024-08-30T18:20:20 EDT" duration-ms="7885">
+      <class name="testCases.AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountRegistrationTest@2da59753]" started-at="2024-08-30T18:20:12 EDT" name="setup" finished-at="2024-08-30T18:20:17 EDT" duration-ms="4559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_registration()[pri:0, instance:testCases.AccountRegistrationTest@2da59753]" started-at="2024-08-30T18:20:17 EDT" name="verify_account_registration" finished-at="2024-08-30T18:20:20 EDT" duration-ms="3098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.AccountRegistrationTest@2da59753]" started-at="2024-08-30T18:20:20 EDT" name="tearDown" finished-at="2024-08-30T18:20:20 EDT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.AccountRegistrationTest -->
+    </test> <!-- Linux-Chrome -->
+    <test started-at="2024-08-30T18:20:20 EDT" name="Linux-Firefox" finished-at="2024-08-30T18:21:08 EDT" duration-ms="48167">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7642df8f]" started-at="2024-08-30T18:20:30 EDT" name="setup" finished-at="2024-08-30T18:20:36 EDT" duration-ms="5887" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testCases.LoginTest@7642df8f]" started-at="2024-08-30T18:20:36 EDT" name="verify_login" finished-at="2024-08-30T18:20:39 EDT" duration-ms="2640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method signature="verify_login_data_provider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7642df8f]" started-at="2024-08-30T18:20:39 EDT" name="verify_login_data_provider" data-provider="LoginData" finished-at="2024-08-30T18:20:42 EDT" duration-ms="2514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testfirst@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@qafox1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_data_provider -->
+        <test-method signature="verify_login_data_provider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7642df8f]" started-at="2024-08-30T18:20:42 EDT" name="verify_login_data_provider" data-provider="LoginData" finished-at="2024-08-30T18:20:53 EDT" duration-ms="11294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hula@yahoi.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hula]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_data_provider -->
+        <test-method signature="verify_login_data_provider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7642df8f]" started-at="2024-08-30T18:20:53 EDT" name="verify_login_data_provider" data-provider="LoginData" finished-at="2024-08-30T18:21:05 EDT" duration-ms="11573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mula@yahoi.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mula]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invaid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_data_provider -->
+        <test-method signature="verify_login_data_provider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7642df8f]" started-at="2024-08-30T18:21:05 EDT" name="verify_login_data_provider" data-provider="LoginData" finished-at="2024-08-30T18:21:08 EDT" duration-ms="2750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_data_provider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@7642df8f]" started-at="2024-08-30T18:21:08 EDT" name="tearDown" finished-at="2024-08-30T18:21:08 EDT" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountRegistrationTest@53bd8fca]" started-at="2024-08-30T18:20:20 EDT" name="setup" finished-at="2024-08-30T18:20:26 EDT" duration-ms="6383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_registration()[pri:0, instance:testCases.AccountRegistrationTest@53bd8fca]" started-at="2024-08-30T18:20:26 EDT" name="verify_account_registration" finished-at="2024-08-30T18:20:29 EDT" duration-ms="2714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.AccountRegistrationTest@53bd8fca]" started-at="2024-08-30T18:20:29 EDT" name="tearDown" finished-at="2024-08-30T18:20:30 EDT" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.AccountRegistrationTest -->
+    </test> <!-- Linux-Firefox -->
+  </suite> <!-- Suite -->
+</testng-results>
